@@ -17,9 +17,16 @@
   },
   "homepage": "https://github.com/agirenko/ts-book#readme",
   "devDependencies": {
-    "gulp-typescript": "^2.11.0"
+    "gulp": "^3.9.1",
+    "gulp-tslint": "^4.3.1",
+    "gulp-typescript": "^2.11.0",
+    "tslint": "^3.3.0",
+    "typescript": "^1.7.5"
   },
   "dependencies": {
-    "jquery": "^2.2.0"
+    "bluebird": "^3.3.0",
+    "handlebars": "^4.0.5",
+    "jquery": "^2.2.0",
+    "lodash": "^4.3.0"
   }
 }
