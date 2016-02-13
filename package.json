@@ -1,0 +1,25 @@
+{
+  "name": "ts-book",
+  "version": "1.0.0",
+  "description": "PackPub Learning Typescript book samples",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agirenko/ts-book.git"
+  },
+  "author": "Alex Girenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agirenko/ts-book/issues"
+  },
+  "homepage": "https://github.com/agirenko/ts-book#readme",
+  "devDependencies": {
+    "gulp-typescript": "^2.11.0"
+  },
+  "dependencies": {
+    "jquery": "^2.2.0"
+  }
+}
