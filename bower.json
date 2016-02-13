@@ -1,0 +1,24 @@
+{
+  "name": "ts-book",
+  "description": "PackPub Learning Typescript book samples",
+  "main": "index.html",
+  "authors": [
+    "Alex Girenko"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/agirenko/ts-book",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.0"
+  },
+  "devDependencies": {
+    "jquery": "^2.2.0"
+  }
+}
